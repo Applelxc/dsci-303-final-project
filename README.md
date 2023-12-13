@@ -22,7 +22,7 @@ We used logistic regression as our baseline model. We also tried support vector 
 
 ## Final Report
 
-You may access our final report at `DSCI 303 Final Report/dsci303-final-report.pdf`.
+You may access our final report at `DSCI 303 Final Report - Apple & Derek.pdf`.
 
 ## Python Notebook
 
